@@ -5,7 +5,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 ## 🎯 Overview
-Fretboard Master bridges the gap between music theory and technical execution. Built with Python and [Insert GUI Library, e.g., CustomTkinter], it allows guitarists to visualize complex scales across the neck using an algorithmic approach to music theory.
+Fretboard Master bridges the gap between music theory and technical execution. Built with Python and CustomTkinter, it allows guitarists to visualize complex scales across the neck using an algorithmic approach to music theory.
 
 ## ✨ Key Features
 * **Algorithmic Scale Generation:** Uses interval logic to calculate scales rather than hardcoded lists.
